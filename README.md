@@ -47,7 +47,7 @@ Introduzir ao versionamento de código com Git e GitHub.
     </tr>
     <tr>
       <td>03</td>
-      <td>Primeiros Passos com Git e GitHub</td>
+      <td>Primeiros Passos com Git e GitHub casa de swing</td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
